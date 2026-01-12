@@ -22,7 +22,8 @@ Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF | Systems Engineer
 - 🤖 Multimodal AI (CLIP, RAG, FAISS, Neo4j)  
 - 🌐 Full-Stack Engineering (MERN, APIs, Databases)  
 - 🛠 Linux, Docker, Git, Cloud  
-- 🚩 Capture The Flag (CTF)  
+- 🚩 Capture The Flag (CTF)
+- BlockChain
 
 
 ## 🧰 Tech Stack
