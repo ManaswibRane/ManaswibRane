@@ -1,116 +1,79 @@
-# 👋 Hi, I'm Manaswi Rane
+## 👋 Hi there, I’m Manaswi
 
-🎓 B.Tech Computer Engineering @ **VJTI Mumbai**  
-🔐 Cybersecurity | 🤖 Multimodal AI | 🌐 Full-Stack Developer  
+Welcome to my GitHub 👾
 
-📍 Mumbai, India  
-📧 **manaswirane1947@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/manaswi-rane) • [GitHub](https://github.com/ManaswibRane)
+**Caution:** Not just a developer — I build systems to **secure, break, analyze, and scale** them.  
+If I write code, it’s because I want to **understand how things fail**.
 
----
-
-## 🚀 About Me
-I’m a Computer Engineering student at **VJTI Mumbai** with a strong passion for **cybersecurity, AI, and scalable systems**.  
-I enjoy building secure applications, experimenting with multimodal AI, and solving real-world problems through engineering.
-
-- 🧠 Strong in **DSA, Algorithms, and System Design**
-- 🔐 Focused on **VAPT, Web Security & Network Monitoring**
-- 🤖 Exploring **RAG, Graph Databases & Multimodal AI**
-- 🧩 Competitive programmer & open-source contributor
+Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF Player | Systems Explorer  
 
 ---
 
-## 🎓 Education
-
-**Veermata Jijabai Technological Institute (VJTI), Mumbai**  
-*B.Tech in Computer Engineering* (2024 – Present)  
-**GPA:** 8.33  
-
-**Bharatiya Vidya Bhavan’s, Mumbai** (2022 – 2024)  
-- HSC: **90.33%**  
-- MHT-CET: **99.78%ile (Rank 501)**
+- 🏆 **Smart India Hackathon 2025 — National Winner (Cybersecurity / VAPT Track)**
+- 🎓 **B.Tech Computer Engineering @ VJTI Mumbai**
+- 🧠 Obsessed with **DSA, system internals & scalable architectures**
+- 🔭 Currently working on **Multimodal RAG + Graph Databases**
+- 👯 Looking to collaborate on **Cybersecurity, AI systems, and full-stack infra**
+- 🧪 I break web apps, build AI pipelines, and automate security
 
 ---
 
-## 📚 Relevant Coursework
-- Data Structures & Algorithms  
-- Linear Algebra  
-- Discrete Mathematics  
-- Computer Organisation  
-- Digital Logic Design  
-- Operating Systems  
+### ⚡ What I Do
+- 🔐 Web & Network Security 
+- 🤖 Multimodal AI (CLIP, RAG, FAISS, Neo4j)
+- 🌐 Full-Stack (MERN, APIs, DBs)
+- 🧩 Competitive Programming & DSA
+- 🛠 Linux, Docker, Git, Cloud
+- 🚩 Capture the flag
 
 ---
 
-## 🛠️ Technical Skills
-
-**Languages**  
-C++, Java, JavaScript, Python  
-
-**Frameworks & Tech**  
-MERN Stack, Neo4j, FAISS, RAG, Linux, Docker, GCP  
-
-**Cybersecurity**  
-VAPT, Web Security (XSS, SQLi, CSRF), Honeypots, Network Monitoring  
-
-**Platforms & Labs**  
-TryHackMe, Hack The Box, picoCTF, PortSwigger Web Security Academy  
-
-**Core Areas**  
-Web Development, DSA, Cybersecurity, Competitive Programming, Multimodal AI  
+## 📊 GitHub Stats
+[![Manaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManaswibRane&show_icons=true&theme=radical)](https://github.com/ManaswibRane)
 
 ---
 
-## 💻 Projects
+## 🔥 Projects I’m proud of
 
-### 🔹 Multimodal Graph Database with Embedded RAG  
-**Python, Neo4j, LangChain, FAISS, CLIP** (Jul 2025 – Present)  
-- Built a hybrid **RAG architecture** combining graph reasoning and vector search.  
-- Enabled **multimodal queries** across text & images using Neo4j + FAISS.  
-- Designed for **scalability & real-time retrieval** on heterogeneous datasets.
+**🧠 Multimodal Graph RAG System**  
+Neo4j + FAISS + CLIP + LangChain  
+> Query text & images using graph reasoning + vector search
 
----
-
-### 🔹 Full-Stack Airbnb Clone  
-**MongoDB, Express, Node.js** (Dec 2024 – Feb 2025)  
-- Developed a full-stack Airbnb-like platform with **user auth, CRUD, and booking flows**.  
-- Designed REST APIs and MongoDB schema for scalable data handling.  
-- 🔗 Project: https://github.com/ManaswibRane/Web-Dev-Projects  
+**🏠 Full-Stack Airbnb Clone**  
+MongoDB, Express, Node  
+> Auth, listings, bookings, REST APIs  
+🔗 https://github.com/ManaswibRane/Web-Dev-Projects  
 
 ---
 
-## 🏆 Achievements
+## 🧰 Tech I use
 
-🏅 **Reliance Foundation Scholar** (2024 – Present)  
-Selected among top students nationwide for academic excellence & leadership.
-
-🥇 **Smart India Hackathon 2025 – National Winner**  
-**Cybersecurity (VAPT Track)**  
-- Built a real-world **Vulnerability Assessment & Penetration Testing** platform.
-
-♟ **VJTI Chess Team** (2024)  
-- 2nd place in inter-branch championship representing Computer Engineering.
-
----
-
-## 🌱 Extracurricular & Open Source
-
-**Mentee – Project X, VJTI** (Jul 2025 – Present)  
-- Active contributor to **open-source projects & Hacktoberfest**  
-- Focused on production-grade software and collaborative engineering
+<p align="left">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=15d8fe">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Cplusplus&svgfill=2d79c7">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=JavaScript&svgfill=df5c43">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js&svgfill=659b60">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ed">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Linux">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GitHub">
+</p>
 
 ---
 
-## 📬 Let’s Connect
+## 📫 Reach me
 
-I’m open to:
-- Open-source collaborations
-- Cybersecurity & AI research
-- Internships and technical projects
-
-📧 **manaswirane1947@gmail.com**  
-🔗 **https://linkedin.com/in/manaswi-rane**
+<p align="center">
+<a target="_blank" href="https://linkedin.com/in/manaswi-rane">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+</a>
+<a target="_blank" href="mailto:manaswirane1947@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+</a>
+<a target="_blank" href="https://github.com/ManaswibRane">
+<img src="https://img.shields.io/badge/-GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"></img>
+</a>
+</p>
 
 ---
 
-⭐ *If you like what I build, feel free to star my repos and connect!*
+⚡ *If you’re into cybersecurity, AI, or breaking & building systems — you’ll feel at home here.*
