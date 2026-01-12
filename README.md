@@ -1,30 +1,30 @@
-## 👋 Hi there, I’m Manaswi
+## Hi there, I’m Manaswi
 
-Welcome to my GitHub 👾
+Welcome to my GitHub 
 
-**Caution:** Not just a developer — I build systems to **secure, break, analyze, and scale** them.  
-If I write code, it’s because I want to **understand how things fail**.
+**Security-first engineer building AI-driven and scalable systems.**  
+I design software with a deep focus on **how it breaks, how it’s exploited, and how it’s secured.**
 
-Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF Player | Systems Explorer  
+Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF | Systems Engineering  
 
 
 
 - 🏆 **Smart India Hackathon 2025 — National Winner (Cybersecurity / VAPT Track)**
 - 🎓 **B.Tech Computer Engineering @ VJTI Mumbai**
-- 🧠 Obsessed with **DSA, system internals & scalable architectures**
-- 🔭 Currently working on **Multimodal RAG + Graph Databases**
-- 👯 Looking to collaborate on **Cybersecurity, AI systems, and full-stack infra**
-- 🧪 I break web apps, build AI pipelines, and automate security
+- 🧠 Strong focus on **DSA, system internals, and distributed architectures**
+- 🔭 Currently building **Multimodal RAG systems using Graph Databases**
+- 👯 Open to collaborations in **Cybersecurity, AI systems, and backend infrastructure**
+- 🧪 I design secure systems, test them under attack, and automate defenses
 
 
 
-### ⚡ What I Do
-- 🔐 Web & Network Security 
-- 🤖 Multimodal AI (CLIP, RAG, FAISS, Neo4j)
-- 🌐 Full-Stack (MERN, APIs, DBs)
-- 🧩 Competitive Programming & DSA
-- 🛠 Linux, Docker, Git, Cloud
-- 🚩 Capture the flag
+### ⚡ Areas of Work
+- 🔐 Application & Network Security  
+- 🤖 Multimodal AI (CLIP, RAG, FAISS, Neo4j)  
+- 🌐 Full-Stack Engineering (MERN, APIs, Databases)  
+- 🧩 Algorithms, DSA & Competitive Programming  
+- 🛠 Linux, Docker, Git, Cloud  
+- 🚩 Capture The Flag (CTF)  
 
 
 
@@ -33,24 +33,24 @@ Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF Player | Systems E
 
 
 
-## 🔥 Projects I’m proud of
+## 🔥 Selected Projects
 
 **🧠 Multimodal Graph RAG System**  
 Neo4j + FAISS + CLIP + LangChain  
-> Query text & images using graph reasoning + vector search
+> Knowledge-graph-driven retrieval with image and text understanding
 
 **🏠 Full-Stack Airbnb Clone**  
 MongoDB, Express, Node  
-> Auth, listings, bookings, REST APIs  
+> Authentication, listings, bookings, REST APIs  
 🔗 https://github.com/ManaswibRane/Web-Dev-Projects  
 
 
 
-## 🧰 Tech I use
+## 🧰 Tech Stack
 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=15d8fe">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&&logo=Cplusplus&svgfill=2d79c7">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&&svgfill=2d79c7">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=JavaScript&svgfill=df5c43">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js&svgfill=659b60">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ed">
@@ -60,7 +60,7 @@ MongoDB, Express, Node
 
 
 
-## 📫 Reach me
+## 📫 Connect with Me
 
 <p align="center">
 <a target="_blank" href="https://linkedin.com/in/manaswi-rane">
@@ -76,4 +76,4 @@ MongoDB, Express, Node
 
 
 
-⚡ *If you’re into cybersecurity, AI, or breaking & building systems — you’ll feel at home here.*
+⚡ *If you’re building secure, intelligent systems — this is the right place to explore.*
