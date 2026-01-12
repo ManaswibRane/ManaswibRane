@@ -1,6 +1,6 @@
-## Hi there, I’m Manaswi
+## 👋 Hi there, I’m Manaswi
 
-Welcome to my GitHub 
+Welcome to my GitHub 👾
 
 **Security-first engineer building AI-driven and scalable systems.**  
 I design software with a deep focus on **how it breaks, how it’s exploited, and how it’s secured.**
@@ -50,8 +50,8 @@ MongoDB, Express, Node
 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=15d8fe">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C++&svgfill=2d79c7">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=JS&svgfill=df5c43">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&&svgfill=2d79c7">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=JavaScript&svgfill=df5c43">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js&svgfill=659b60">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ed">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Linux">
