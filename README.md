@@ -7,7 +7,7 @@ If I write code, it’s because I want to **understand how things fail**.
 
 Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF Player | Systems Explorer  
 
----
+
 
 - 🏆 **Smart India Hackathon 2025 — National Winner (Cybersecurity / VAPT Track)**
 - 🎓 **B.Tech Computer Engineering @ VJTI Mumbai**
@@ -16,7 +16,7 @@ Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF Player | Systems E
 - 👯 Looking to collaborate on **Cybersecurity, AI systems, and full-stack infra**
 - 🧪 I break web apps, build AI pipelines, and automate security
 
----
+
 
 ### ⚡ What I Do
 - 🔐 Web & Network Security 
@@ -26,12 +26,12 @@ Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF Player | Systems E
 - 🛠 Linux, Docker, Git, Cloud
 - 🚩 Capture the flag
 
----
+
 
 ## 📊 GitHub Stats
 [![Manaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManaswibRane&show_icons=true&theme=radical)](https://github.com/ManaswibRane)
 
----
+
 
 ## 🔥 Projects I’m proud of
 
@@ -44,7 +44,7 @@ MongoDB, Express, Node
 > Auth, listings, bookings, REST APIs  
 🔗 https://github.com/ManaswibRane/Web-Dev-Projects  
 
----
+
 
 ## 🧰 Tech I use
 
@@ -58,7 +58,7 @@ MongoDB, Express, Node
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GitHub">
 </p>
 
----
+
 
 ## 📫 Reach me
 
@@ -74,6 +74,6 @@ MongoDB, Express, Node
 </a>
 </p>
 
----
+
 
 ⚡ *If you’re into cybersecurity, AI, or breaking & building systems — you’ll feel at home here.*
