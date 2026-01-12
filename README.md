@@ -11,10 +11,9 @@ Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF | Systems Engineer
 
 - 🏆 **Smart India Hackathon 2025 — National Winner (Cybersecurity / VAPT Track)**
 - 🎓 **B.Tech Computer Engineering @ VJTI Mumbai**
-- 🧠 Strong focus on **DSA, system internals, and distributed architectures**
+- 🧠 Strong focus on **system internals and distributed architectures**
 - 🔭 Currently building **Multimodal RAG systems using Graph Databases**
 - 👯 Open to collaborations in **Cybersecurity, AI systems, and backend infrastructure**
-- 🧪 I design secure systems, test them under attack, and automate defenses
 
 
 
@@ -22,28 +21,8 @@ Cybersecurity | Multimodal AI | Full-Stack | RAG | VAPT | CTF | Systems Engineer
 - 🔐 Application & Network Security  
 - 🤖 Multimodal AI (CLIP, RAG, FAISS, Neo4j)  
 - 🌐 Full-Stack Engineering (MERN, APIs, Databases)  
-- 🧩 Algorithms, DSA & Competitive Programming  
 - 🛠 Linux, Docker, Git, Cloud  
 - 🚩 Capture The Flag (CTF)  
-
-
-
-## 📊 GitHub Stats
-[![Manaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManaswibRane&show_icons=true&theme=radical)](https://github.com/ManaswibRane)
-
-
-
-## 🔥 Selected Projects
-
-**🧠 Multimodal Graph RAG System**  
-Neo4j + FAISS + CLIP + LangChain  
-> Knowledge-graph-driven retrieval with image and text understanding
-
-**🏠 Full-Stack Airbnb Clone**  
-MongoDB, Express, Node  
-> Authentication, listings, bookings, REST APIs  
-🔗 https://github.com/ManaswibRane/Web-Dev-Projects  
-
 
 
 ## 🧰 Tech Stack
