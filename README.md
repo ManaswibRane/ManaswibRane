@@ -50,7 +50,7 @@ MongoDB, Express, Node
 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=15d8fe">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Cplusplus&svgfill=2d79c7">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&&svgfill=2d79c7">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=JavaScript&svgfill=df5c43">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js&svgfill=659b60">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ed">
